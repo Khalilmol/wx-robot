@@ -1,0 +1,5 @@
+
+### 2. `requirements.txt` - 依赖列表
+```text name=requirements.txt
+wxpy==0.9.8
+pillow>=8.0.0
